@@ -1,6 +1,8 @@
 💻 Meu Portfólio 💻
 
 📚 Seções
+
+
 O site é composto por 4 trechos:
 
 Home: Nele temos uma breve apresentação;
